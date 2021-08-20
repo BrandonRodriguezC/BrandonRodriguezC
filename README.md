@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy un desarrollador de software colombiano 🇨🇴 de 21 años que busca desarrollar el perfil profesional enfocado en la cultura DevOps en la industria. Actualmente desempeñando funciones DevOps con IaC (Terraform - AWS), Docker, Bash scripting (Linux), VCS (git - Github), CI/CD (jenkins), CM (Ansible). Tambien soy un creador de soluciones por medio de aplicativos stand-alone, cliente-servidor y web (API REST) en lenguajes como Java y Javascript utilizando entornos como Node.js, Java EE y SE. Poseo conocimientos en bases de datos SQL y NoSQL como Mongo, MySQL, SQLite, Firebase/Firestore. 
+Soy un desarrollador de software colombiano de 21 años que busca desarrollar el perfil profesional enfocado en la cultura DevOps en la industria. Actualmente desempeñando funciones DevOps con IaC (Terraform - AWS), Docker, Bash scripting (Linux), VCS (git - Github), CI/CD (jenkins), CM (Ansible). Tambien soy un creador de soluciones por medio de aplicativos stand-alone, cliente-servidor y web (API REST) en lenguajes como Java y Javascript utilizando entornos como Node.js, Java EE y SE. Poseo conocimientos en bases de datos SQL y NoSQL como Mongo, MySQL, SQLite, Firebase/Firestore. 
 
 ### Cualidades 😛
 <p align="center" style= "font-style: italic">
